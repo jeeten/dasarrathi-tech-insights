@@ -47,7 +47,8 @@ dasarrathi-tech-insights/
 │── README.md                # Main repository overview
 
 
----
+--- 
+```
 
 ## 🤝 Join the Discussion & Stay Connected
 
