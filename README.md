@@ -29,10 +29,11 @@ This repository serves as a structured collection of:
 
 ---
 
-## 📂 Recommended Folder Structure  
+## 📂 Folder Structure  
 
 To keep content well-organized, use the following folder structure:  
 
+```plaintext
 dasarrathi-tech-insights/
 │── cloud-native/            # Cloud & DevOps insights (AWS, Kubernetes, Terraform)
 │── data-engineering/        # ETL, Glue, Redshift, Athena, Apache Airflow
