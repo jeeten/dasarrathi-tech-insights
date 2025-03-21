@@ -6,11 +6,11 @@
 
 ## 🔥 About This Repository
 
-Welcome to **dasarrathi-tech-insights** – a hub where I share my deep technical expertise, industry insights, and thought leadership in cloud-native architectures, data engineering, IAM, AI/ML, and software development.  
+Welcome to **dasarrathi-tech-insights** – a hub where I share my deep technical expertise, industry insights, and thought leadership in cloud-native architectures, data engineering, IAM, AI/ML, Generative AI (Gen AI), Python, and microservices.  
 
 This repository serves as a structured collection of:  
 ✔ **LinkedIn posts** – Technical insights, problem-solving approaches, and architectural patterns.  
-✔ **Technical articles** – Deep dives into cloud computing, security best practices, data pipelines, Kubernetes, and more.  
+✔ **Technical articles** – Deep dives into cloud computing, security best practices, data pipelines, Kubernetes, AI/ML, and more.  
 ✔ **Guidance for tech seekers** – Career strategies, job preparation resources, and mentorship content for aspiring architects and engineers.  
 ✔ **Hands-on implementation guides** – Code snippets, case studies, and practical solutions for real-world challenges.  
 
@@ -22,27 +22,29 @@ This repository serves as a structured collection of:
 - **Data Engineering** – ETL pipelines, Glue, Redshift, Athena, Apache Airflow  
 - **Identity & Access Management (IAM)** – Security best practices, authentication patterns  
 - **Software Architecture** – Event-driven design, CQRS, microservices, scalable system design  
-- **AI/ML & Automation** – MLOps, AI-driven automation in cloud environments  
-- **Tech Career Growth** – Strategies to transition into Cloud, AI, and Data roles  
+- **Microservices & API Development** – Best practices for distributed systems and API design  
+- **Python & Secure Coding** – Advanced Python programming, security best practices in Python  
+- **Gen AI, AI/ML & Automation** – MLOps, AI-driven automation, Generative AI models, LLMs, and Chatbots  
+- **Tech Career Growth** – Strategies to transition into Cloud, AI, Data, and Microservices roles  
 
 ---
 
-## 🎯 Who is This For?
+## 📂 Recommended Folder Structure  
 
-- **Cloud Architects & Engineers** – Looking for practical knowledge on building cloud-native solutions.  
-- **Aspiring Tech Professionals** – Seeking career guidance, industry insights, and job-ready skills.  
-- **Data Engineers & AI Enthusiasts** – Interested in big data, automation, and AI/ML workflows.  
-- **Tech Bloggers & Content Creators** – Exploring how to share and grow technical expertise.  
+To keep content well-organized, use the following folder structure:  
 
----
+dasarrathi-tech-insights/
+│── cloud-native/            # Cloud & DevOps insights (AWS, Kubernetes, Terraform)
+│── data-engineering/        # ETL, Glue, Redshift, Athena, Apache Airflow
+│── identity-access/         # IAM, authentication, security best practices
+│── microservices/           # Distributed systems, API development, service mesh
+│── python-secure-coding/    # Python best practices, secure coding, performance tips
+│── gen-ai-ml/               # AI/ML, Generative AI (LLMs, Chatbots), MLOps
+│── linkedin-posts/          # LinkedIn posts in markdown format
+│── career-growth/           # Career tips, job search strategies, mentorship
+│── case-studies/            # Real-world use cases and success stories
+│── README.md                # Main repository overview
 
-## 🌍 How to Use This Repository
-
-📂 **LinkedIn Posts** – Find structured markdown files of my LinkedIn posts for easy reference.  
-📂 **Articles & Case Studies** – In-depth articles explaining cloud, IAM, and data solutions.  
-📂 **Guides & Tutorials** – Hands-on implementation of cloud-native and IAM architectures.  
-
-💡 **Follow along, contribute, and engage!** If you find value in the content, feel free to star ⭐ this repo and share insights in discussions.  
 
 ---
 
