@@ -52,7 +52,7 @@ dasarrathi-tech-insights/
 
 ## 🤝 Join the Discussion & Stay Connected
 
-💼 **LinkedIn:** [Follow me on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dasarrathi)  
+💼 **LinkedIn:** [Follow me on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dasarrathi) 
 📧 **Get in Touch:** Open an issue for collaboration ideas or discussions.  
 
 Let’s grow together as a tech community! 🚀  
